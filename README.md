@@ -13,24 +13,12 @@ Take a look at my highlighted skills and interests:
 - Data analysis: Jupyter Notebook
 - Learning about Object-Oriented Programming in Java
 
-### 💼 Project Highlights
-
-While I might be a new GitHub user, I've already begun sharing some of my projects. Explore below a few of my highlighted repositories:
-
-1. [ryan-site](https://github.com/ryan-ribeiro/ryan-site): A simple personal website showcasing my skills and projects. 
-2. [c-programming](https://github.com/ryan-ribeiro/c-programming): A collection of programs and projects implemented in the C language.
-3. [java-oop-examples](https://github.com/ryan-ribeiro/java-oop-examples): A repository containing examples and exercises to practice Java object-oriented programming.
-4. [data-analysis-notebooks](https://github.com/ryan-ribeiro/data-analysis-notebooks): A collection of Jupyter Notebooks focusing on various data analysis techniques.
-
-For more projects, be sure to explore my GitHub repositories!
-
 ### 📞 Contact
 
 Feel free to reach out to me! You can contact me through the following channels:
 
-- Email: [ryanexample@gmail.com](mailto:ryanexample@gmail.com)
+- Email: [ryan.ribeiro@discente.ufg.br](mailto:ryan.ribeiro@discente.ufg.br)
 - LinkedIn: [Ryan Ribeiro](https://www.linkedin.com/in/ryan-ribeiro)
-- Twitter: [@ryan_dev](https://twitter.com/ryan_dev)
 
 ### 📊 GitHub Stats
 
