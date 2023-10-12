@@ -14,13 +14,13 @@ Take a look at my highlighted skills and interests:
 ### 💼 Projects
 Here are some of my projects. Feel free to check them out!
 
-Final Project - Sales Software - My final project was made in C language of a pizza company
+- Final Project - Sales Software - My final project was made in C language of a pizza company
 
-iec2023_1_AeB: This repository contains a collection of introduction projects developed through my college classes, using Python, HTML/CSS, and JavaScript.
+- iec2023_1_AeB: This repository contains a collection of introduction projects developed through my college classes, using Python, HTML/CSS, and JavaScript.
 
-c-language: In this repository, you can find various projects that I have implemented in C language. These projects demonstrate my proficiency in C and my ability to solve different programming challenges.
+- c-language: In this repository, you can find various projects that I have implemented in C language. These projects demonstrate my proficiency in C and my ability to solve different programming challenges.
 
-poo-2023-02: This repository contains my projects related to Java and Object-Oriented Programming. It represents my understanding of Java concepts and my ability to create well-designed and maintainable applications.
+- poo-2023-02: This repository contains my projects related to Java and Object-Oriented Programming. It represents my understanding of Java concepts and my ability to create well-designed and maintainable applications.
 
 
 ### 📞 Contact
