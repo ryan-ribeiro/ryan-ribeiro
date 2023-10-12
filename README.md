@@ -9,9 +9,19 @@ Hello there! 👋 I'm Ryan Ribeiro, a relatively new member of the GitHub commun
 Take a look at my highlighted skills and interests:
 
 - Programming languages: C, Java
-- Web development: HTML, CSS, JavaScript
-- Data analysis: Jupyter Notebook
 - Learning about Object-Oriented Programming in Java
+
+💼 Projects
+Here are some of my projects. Feel free to check them out!
+
+Final Project - Sales Software - My final project made in C-language of a pizza company
+
+iec2023_1_AeB: This repository contains a collection of projects developed through my college classes, utilizing Python, HTML/CSS, and JavaScript. It highlights my ability to work with multiple languages and build different types of applications.
+
+c-language: In this repository, you can find various projects that I have implemented in C language. These projects demonstrate my proficiency in C and my ability to solve different programming challenges.
+
+poo-2023-02: This repository contains my projects related to Java and Object-Oriented Programming. It represents my understanding of Java concepts and my ability to create well-designed and maintainable applications.
+
 
 ### 📞 Contact
 
