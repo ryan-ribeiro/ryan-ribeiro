@@ -1,5 +1,3 @@
-## ![ryan-ribeiro](https://placehold.it/150x50/30a14e/ffffff?text=ryan-ribeiro)
-
 ### 📌 Introduction
 
 Hello there! 👋 I'm Ryan Ribeiro, a relatively new member of the GitHub community. While I may not have a long history of activity on GitHub, I'm excited to share projects and collaborate with fellow developers. As a Computer Engineering student from Goiânia, Goiás State of Brazil, I'm constantly honing my skills and exploring new technologies. While I primarily program in C, I'm also diving into the world of Java object-oriented programming.
@@ -14,7 +12,7 @@ Take a look at my highlighted skills and interests:
 ### 💼 Projects
 Here are some of my projects. Feel free to check them out!
 
-- Final Project - Sales Software - My final project was made in C language of a pizza company
+- Final-Project-C-Language-Sales-Software - My final project was made in C language about a pizza company
 
 - iec2023_1_AeB: This repository contains a collection of introduction projects developed through my college classes, using Python, HTML/CSS, and JavaScript.
 
