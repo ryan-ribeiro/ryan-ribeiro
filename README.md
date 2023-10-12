@@ -36,11 +36,6 @@ Feel free to reach out to me! You can contact me through the following channels:
 
 Here's a glimpse into my GitHub stats. While I might be a relative newcomer, I'm excited to contribute more and expand my presence on GitHub.
 
-### 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ryan-ribeiro)](https://git.io/streak-stats)
-
-Check out my GitHub streak, showing my consecutive day contributions! While it may not be the longest streak, it's a representation of my commitment to coding and learning.
 
 ### 🏆 GitHub Trophies
 
