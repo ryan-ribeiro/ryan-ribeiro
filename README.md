@@ -11,7 +11,7 @@ Take a look at my highlighted skills and interests:
 - Programming languages: C, Java
 - Learning about Object-Oriented Programming in Java
 
-💼 Projects
+### 💼 Projects
 Here are some of my projects. Feel free to check them out!
 
 Final Project - Sales Software - My final project made in C-language of a pizza company
