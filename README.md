@@ -37,20 +37,8 @@ Feel free to reach out to me! You can contact me through the following channels:
 Here's a glimpse into my GitHub stats. While I might be a relative newcomer, I'm excited to contribute more and expand my presence on GitHub.
 
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryan-ribeiro)](https://github.com/ryan-ribeiro)
-
-Here are some trophies showcasing my achievements on GitHub. I'm excited to continue working on various projects and earn more badges along the way!
-
 ### 🌟 Popular Projects, Badges, and More!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-ribeiro&layout=compact)](https://github.com/ryan-ribeiro)
 
-Above, you can see some of my most popular programming languages across my repositories. Although C and Java are my main focuses, I believe in being well-versed in various languages and technologies.
 
-I'm an avid learner and always interested in expanding my skillset and knowledge. Learning new technologies and contributing to open-source projects is of great interest to me. As I continue my journey on GitHub, I plan to engage more with the community and contribute meaningful projects in collaboration with fellow developers.
-
-Thank you for visiting my profile, and I can't wait to connect with you! 😄
-
-![ryan](https://github.com/ryan-ribeiro/ryan-ribeiro/blob/main/assets/image.gif)
