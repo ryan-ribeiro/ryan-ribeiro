@@ -1,6 +1,6 @@
 ### 📌 Introduction
 
-Hello there! 👋 I'm Ryan Ribeiro, a relatively new member of the GitHub community. While I may not have a long history of activity on GitHub, I'm excited to share projects and collaborate with fellow developers. As a Computer Engineering student from Goiânia, Goiás State of Brazil, I'm constantly honing my skills and exploring new technologies. While I primarily program in C, I'm also diving into the world of Java object-oriented programming.
+Hello there! 👋 I'm Ryan Ribeiro, a relatively new member of the GitHub community. As a Computer Engineering student from Goiânia, Goiás State of Brazil, I'm constantly honing my skills and exploring new technologies. While I primarily program in C, I'm also diving into the world of Java object-oriented programming.
 
 ### 👨‍💻 Skills & Interests
 
