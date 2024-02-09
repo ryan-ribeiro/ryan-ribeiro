@@ -1,7 +1,7 @@
 
 ### 📌 Introduction
  
-Hello there! 👋 I'm Ryan Ribeiro, a relatively new member of the GitHub community. As a Computer Engineering student from Goiânia, Goiás State of Brazil, I'm constantly honing my skills and exploring new technologies. While I primarily program in C, I'm also diving into the world of Java object-oriented programming.
+Hello there! 👋 I'm Ryan Ribeiro, a new member of the GitHub community. As a Computer Engineering student from Goiânia, Goiás State of Brazil, I'm constantly honing my skills and exploring new technologies. My repository where i post my arduino projects. I try to test many types of sensors and communications protocols to solve problems I come with. While I primarily program in C, I'm also diving into the world of Java object-oriented programming.
 
 ### 👨‍💻 Skills & Interests
 
@@ -16,6 +16,8 @@ Here are some of my projects. Feel free to check them out!
 - [final-Project-C-Language-Sales-Software](https://github.com/ryan-ribeiro/Final-Project-C-Language-Sales-Software) - My final project was made in C language about a pizza company, where you can self order pizzas and pay for it using payment forms.
   
 -  [biblioteca](https://github.com/ryan-ribeiro/bibliotecaStreams): One of my best projects, it is a Java Objetect-Oriented software of a library using Streams, where people can lend registered books, and read it for a deadline of 7 days. After that time, a thread will notify. All of the data are registered on .txt files.
+
+-  [arduino-Projects](https://github.com/ryan-ribeiro/arduino-projects.git): My repository where i post my arduino projects. I try to test many types of sensors and communications protocols to solve problems I come with.
   
 - [c-language](https://github.com/ryan-ribeiro/c-language): In this repository, you can find various projects that I have implemented in C language. These projects demonstrate my proficiency in C and my ability to solve different programming challenges.
 
