@@ -1,7 +1,7 @@
 
 ### 📌 Introduction
  
-Hello there! 👋 I'm Ryan Ribeiro, a new member of the GitHub community. As a Computer Engineering student from Goiânia, Goiás State of Brazil, I'm constantly honing my skills and exploring new technologies. I try to test a wide range of sensors, coding and communications protocols to solve problems I come with. While I primarily program in C, I'm also diving into the world of Java object-oriented programming.
+As a Computer Engineering student from Goiânia, Goiás State of Brazil, I'm constantly honing my skills and exploring new technologies. I try to test a wide range of sensors, coding and communications protocols to solve problems I face. While I primarily program in C, I'm also diving into the world of Java object-oriented programming.
 
 ### 👨‍💻 Skills & Interests
 
@@ -38,7 +38,6 @@ Feel free to reach out to me! You can contact me through the following channels:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryan-ribeiro)
 
-Here's a glimpse into my GitHub stats. While I might be a relative newcomer, I'm excited to contribute more and expand my presence on GitHub.
 
 
 ### 🌟 Popular Projects, Badges, and More!
