@@ -1,7 +1,7 @@
 
 ### 📌 Introduction
  
-Hello there! 👋 I'm Ryan Ribeiro, a new member of the GitHub community. As a Computer Engineering student from Goiânia, Goiás State of Brazil, I'm constantly honing my skills and exploring new technologies. My repository where i post my arduino projects. I try to test many types of sensors and communications protocols to solve problems I come with. While I primarily program in C, I'm also diving into the world of Java object-oriented programming.
+Hello there! 👋 I'm Ryan Ribeiro, a new member of the GitHub community. As a Computer Engineering student from Goiânia, Goiás State of Brazil, I'm constantly honing my skills and exploring new technologies. I try to test many types of sensors and communications protocols to solve problems I come with. While I primarily program in C, I'm also diving into the world of Java object-oriented programming.
 
 ### 👨‍💻 Skills & Interests
 
