@@ -19,9 +19,9 @@ Here are some of my projects. Feel free to check them out!
 
 -  [arduino-Projects](https://github.com/ryan-ribeiro/arduino-projects.git): My repository where i post my arduino projects. I try to test a wide range of sensors, coding and communications protocols to solve problems I come with.
   
-- [c-language](https://github.com/ryan-ribeiro/c-language): In this repository, you can find various projects that I have implemented in C language. These projects demonstrate my proficiency in C and my ability to solve different programming challenges.
+- [c-language](https://github.com/ryan-ribeiro/c-language): In this repository, you can find all of the projects that I have implemented in C language. These projects demonstrate my proficiency in C and my ability to solve different programming challenges.
 
-- [poo-2023-02](https://github.com/ryan-ribeiro/poo-2023-02): This repository contains my projects related to Java and Object-Oriented Programming. It represents my understanding of Java concepts and my ability to create well-designed and maintainable applications.
+- [poo-2023-02](https://github.com/ryan-ribeiro/poo-2023-02): This repository contains all of my projects related to Java and Object-Oriented Programming. It represents my understanding of Java concepts and my ability to create well-designed and maintainable applications.
 
 -  [iec2023_1_AeB](https://github.com/ryan-ribeiro/iec2023_1_AeB): This repository contains a collection of introduction projects developed through my college classes, using Python, HTML/CSS, and JavaScript.
 
