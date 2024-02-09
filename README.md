@@ -17,7 +17,7 @@ Here are some of my projects. Feel free to check them out!
   
 -  [biblioteca](https://github.com/ryan-ribeiro/bibliotecaStreams): One of my best projects, it is a Java Objetect-Oriented software of a library using Streams, where people can lend registered books, and read it for a deadline of 7 days. After that time, a thread will notify. All of the data are registered on .txt files.
 
--  [arduino-Projects](https://github.com/ryan-ribeiro/arduino-projects.git): My repository where i post my arduino projects. I try to test many types of sensors and communications protocols to solve problems I come with.
+-  [arduino-Projects](https://github.com/ryan-ribeiro/arduino-projects.git): My repository where i post my arduino projects. I try to test a wide range of sensors, coding and communications protocols to solve problems I come with.
   
 - [c-language](https://github.com/ryan-ribeiro/c-language): In this repository, you can find various projects that I have implemented in C language. These projects demonstrate my proficiency in C and my ability to solve different programming challenges.
 
