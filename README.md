@@ -14,14 +14,14 @@ Take a look at my highlighted skills and interests:
 Here are some of my projects. Feel free to check them out!
 
 - [Final-Project-C-Language-Sales-Software](https://github.com/ryan-ribeiro/Final-Project-C-Language-Sales-Software) - My final project was made in C language about a pizza company, where you can self order pizzas and pay for it using payment forms.
-
-- [iec2023_1_AeB](https://github.com/ryan-ribeiro/iec2023_1_AeB): This repository contains a collection of introduction projects developed through my college classes, using Python, HTML/CSS, and JavaScript.
-
+  
+-  [biliotecaStreams](https://github.com/ryan-ribeiro/bibliotecaStreams): One of my best projects, it is a Java Objetect-Oriented software of a library, where people can lend registered books, and read it for a deadline of 7 days. After that time, a thread will notify. All of the data are registered on .txt files.
+  
 - [c-language](https://github.com/ryan-ribeiro/c-language): In this repository, you can find various projects that I have implemented in C language. These projects demonstrate my proficiency in C and my ability to solve different programming challenges.
 
 - [poo-2023-02](https://github.com/ryan-ribeiro/poo-2023-02): This repository contains my projects related to Java and Object-Oriented Programming. It represents my understanding of Java concepts and my ability to create well-designed and maintainable applications.
 
-- [biliotecaStreams](https://github.com/ryan-ribeiro/bibliotecaStreams): One of my best projects, it is a Java Objetect-Oriented software of a library, where people can lend registered books, and read it for a deadline of 7 days. After that time, a thread will notify. All of the data are registered on .txt files.
+-  [iec2023_1_AeB](https://github.com/ryan-ribeiro/iec2023_1_AeB): This repository contains a collection of introduction projects developed through my college classes, using Python, HTML/CSS, and JavaScript.
 
 
 ### 📞 Contact
