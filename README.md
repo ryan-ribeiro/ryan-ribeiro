@@ -7,13 +7,13 @@ Hello there! 👋 I'm Ryan Ribeiro, a relatively new member of the GitHub commun
 
 Take a look at my highlighted skills and interests:
 
-- Programming languages: C, Java
+- Programming languages: C, Java, UML
 - Learning about Object-Oriented Programming in Java
 
 ### 💼 Projects
 Here are some of my projects. Feel free to check them out!
 
-- [Final-Project-C-Language-Sales-Software](https://github.com/ryan-ribeiro/Final-Project-C-Language-Sales-Software) - My final project was made in C language about a pizza company
+- [Final-Project-C-Language-Sales-Software](https://github.com/ryan-ribeiro/Final-Project-C-Language-Sales-Software) - My final project was made in C language about a pizza company, where you can self order pizzas and pay for it using payment forms.
 
 - [iec2023_1_AeB](https://github.com/ryan-ribeiro/iec2023_1_AeB): This repository contains a collection of introduction projects developed through my college classes, using Python, HTML/CSS, and JavaScript.
 
@@ -21,12 +21,15 @@ Here are some of my projects. Feel free to check them out!
 
 - [poo-2023-02](https://github.com/ryan-ribeiro/poo-2023-02): This repository contains my projects related to Java and Object-Oriented Programming. It represents my understanding of Java concepts and my ability to create well-designed and maintainable applications.
 
+- [biliotecaStreams](https://github.com/ryan-ribeiro/bibliotecaStreams): One of my best projects, it is a Java Objetect-Oriented software of a library, where people can lend registered books, and read it for a deadline of 7 days. After that time, a thread will notify. All of the data are registered on .txt files.
+
 
 ### 📞 Contact
 
 Feel free to reach out to me! You can contact me through the following channels:
 
 - Email: [ryan.ribeiro@discente.ufg.br](mailto:ryan.ribeiro@discente.ufg.br)
+- Email: [ryanrodrigues0071234@gmail.com](mailto:ryanrodrigues0071234@gmail.com)
 - LinkedIn: [Ryan Ribeiro](https://www.linkedin.com/in/ryan-ribeiro)
 
 ### 📊 GitHub Stats
