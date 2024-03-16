@@ -40,7 +40,7 @@ Here are some of my projects. Feel free to check them out!
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Ryan-Ribeiro-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Ryan-Ribeiro-EmbeddedC" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />
+  <img align="center" alt="Ryan-Ribeiro-EmbeddedC" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-plain-wordmark.svg" />
   <img align="center" alt="Ryan-Ribeiro-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
   <img align="center" alt="Ryan-Ribeiro-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Ryan-Ribeiro-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
