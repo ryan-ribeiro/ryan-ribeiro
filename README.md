@@ -20,7 +20,7 @@ Feel free to connect with me if you share a passion for Arduino automation solut
 
 <div align="center">
   <a href="https://github.com/ryan-ribeiro">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ryan-ribeiro&show_icons=true&theme=holi&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ryan-ribeiro&show_icons=true&theme=holi&count_private=true&include_all_commits=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-ribeiro&layout=compact&langs_count=7&theme=holi"/>
 </div>
 
@@ -28,13 +28,13 @@ Feel free to connect with me if you share a passion for Arduino automation solut
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Ryan-Ribeiro-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Ryan-Ribeiro-EmbeddedC" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
-  <img align="center" alt="Ryan-Ribeiro-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-  <img align="center" alt="Ryan-Ribeiro-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Ryan-Ribeiro-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img align="center" alt="Ryan-Ribeiro-UML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
-  <img align="center" alt="Ryan-Ribeiro-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />        
+  <img align="center" alt="Ryan-Ribeiro-Java" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Ryan-Ribeiro-EmbeddedC" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
+  <img align="center" alt="Ryan-Ribeiro-Arduino" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="Ryan-Ribeiro-Git" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Ryan-Ribeiro-GitHub" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img align="center" alt="Ryan-Ribeiro-UML" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
+  <img align="center" alt="Ryan-Ribeiro-Spring" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />        
           
           
 </div>
