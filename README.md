@@ -43,7 +43,7 @@ Here are some of my projects. Feel free to check them out!
   <img align="center" alt="Ryan-Ribeiro-EmbeddedC" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
   <img align="center" alt="Ryan-Ribeiro-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
   <img align="center" alt="Ryan-Ribeiro-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Ryan-Ribeiro-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="Ryan-Ribeiro-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
   <img align="center" alt="Ryan-Ribeiro-UML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
           
           
