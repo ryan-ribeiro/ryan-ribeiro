@@ -1,14 +1,16 @@
+## Hello! I am Ryan Ribeiro
 
-### 📌 Introduction
- 
-As a Computer Engineering student from Goiânia, Goiás State of Brazil, I'm constantly honing my skills and exploring new technologies. I try to test a wide range of sensors, coding and communications protocols to solve problems I face. While I primarily program in C, I'm also diving into the world of Java object-oriented programming.
+### About Me
 
-### 👨‍💻 Skills & Interests
+As a Computer Engineering student from Goiânia, Goiás State of Brazil, I'm constantly honing my skills and exploring new technologies. 
 
-Take a look at my highlighted skills and interests:
+I develop home and industrial automation solutions using Arduino ♾️. 
 
-- Programming languages: C, Java, UML
-- Learning about Object-Oriented Programming in Java
+I try to test a wide range of sensors, coding and communications protocols to develop solutions to the problems of I face. 
+
+While I primarily program in C, I'm also diving into the world of Java object-oriented programming.
+
+Feel free to connect with me if you share a passion for Arduino automation solutions, technology, or just want to exchange ideas. I'm always open to collaborations and discussions.
 
 ### 💼 Projects
 Here are some of my projects. Feel free to check them out!
@@ -25,23 +27,38 @@ Here are some of my projects. Feel free to check them out!
 
 -  [iec2023_1_AeB](https://github.com/ryan-ribeiro/iec2023_1_AeB): This repository contains a collection of introduction projects developed through my college classes, using Python, HTML/CSS, and JavaScript.
 
+### GitHub Statistics
 
-### 📞 Contact
+<div align="center">
+  <a href="https://github.com/ubiratan-motta">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ryan-ribeiro&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-ribeiro&layout=compact&langs_count=7&theme=catppuccin_mocha"/>
+</div>
 
-Feel free to reach out to me! You can contact me through the following channels:
+### Technologies I Master
 
-- Email: [ryan.ribeiro@discente.ufg.br](mailto:ryan.ribeiro@discente.ufg.br)
-- Email: [ryanrodrigues0071234@gmail.com](mailto:ryanrodrigues0071234@gmail.com)
-- LinkedIn: [Ryan Ribeiro](https://www.linkedin.com/in/ryan-ribeiro)
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Ryan-Ribeiro-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Ryan-Ribeiro-EmbeddedC" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />
+  <img align="center" alt="Ryan-Ribeiro-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="Ryan-Ribeiro-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Ryan-Ribeiro-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="Ryan-Ribeiro-UML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
+          
+          
+          
+</div>
 
-### 📊 GitHub Stats
+### Contact
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryan-ribeiro)
+<div> 
+ <a href = "mailto:ryanrodrigues0071234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ryanrrg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
+### GitHub Activity
 
-
-### 🌟 Popular Projects, Badges, and More!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-ribeiro&layout=compact)](https://github.com/ryan-ribeiro)
+![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
 
 
