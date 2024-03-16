@@ -20,8 +20,8 @@ Feel free to connect with me if you share a passion for Arduino automation solut
 
 <div align="center">
   <a href="https://github.com/ubiratan-motta">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ryan-ribeiro&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-ribeiro&layout=compact&langs_count=7&theme=date_night"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ryan-ribeiro&show_icons=true&theme=holi &include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-ribeiro&layout=compact&langs_count=7&theme=holi "/>
 </div>
 
 ### Technologies I Master
