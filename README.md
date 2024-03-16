@@ -47,7 +47,7 @@ Here are some of my projects. Feel free to check them out!
   <img align="center" alt="Ryan-Ribeiro-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Ryan-Ribeiro-GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img align="center" alt="Ryan-Ribeiro-UML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
-          
+  <img align="center" alt="Ryan-Ribeiro-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />        
           
           
 </div>
