@@ -14,20 +14,7 @@ While I primarily program in C, I'm also diving into the world of Java object-or
 
 Feel free to connect with me if you share a passion for Arduino automation solutions, technology, or just want to exchange ideas. I'm always open to collaborations and discussions.
 
-### 💼 Projects
-Here are some of my projects. Feel free to check them out!
 
-- [final-Project-C-Language-Sales-Software](https://github.com/ryan-ribeiro/Final-Project-C-Language-Sales-Software) - My final project was made in C language about a pizza company, where you can self order pizzas and pay for it choosing a payment form.
-  
--  [biblioteca](https://github.com/ryan-ribeiro/bibliotecaStreams): One of my best projects, it is a Java Objetect-Oriented software of a library using Streams, where people can lend registered books, and read it for a deadline of 7 days. After that time, a thread will notify. All of the data are registered on .txt files.
-
--  [arduino-Projects](https://github.com/ryan-ribeiro/arduino-projects.git): My repository where i post my arduino projects. I try to test a wide range of sensors, coding and communications protocols to solve problems I come with.
-  
-- [c-language](https://github.com/ryan-ribeiro/c-language): In this repository, you can find all of the projects that I have implemented in C language. These projects demonstrate my proficiency in C and my ability to solve different programming challenges.
-
-- [poo-2023-02](https://github.com/ryan-ribeiro/poo-2023-02): This repository contains all of my projects related to Java and Object-Oriented Programming. It represents my understanding of Java concepts and my ability to create well-designed and maintainable applications.
-
--  [iec2023_1_AeB](https://github.com/ryan-ribeiro/iec2023_1_AeB): This repository contains a collection of introduction projects developed through my college classes, using Python, HTML/CSS, and JavaScript.
 
 ### GitHub Statistics
 
