@@ -46,8 +46,4 @@ Feel free to connect with me if you share a passion for Arduino automation solut
   <a href="https://www.linkedin.com/in/ryanrrg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### GitHub Activity
-
-![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
-
 
