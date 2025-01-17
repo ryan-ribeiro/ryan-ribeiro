@@ -29,7 +29,6 @@ Feel free to connect with me if you share a passion for Arduino automation solut
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Ryan-Ribeiro-Java" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Ryan-Ribeiro-EmbeddedC" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
   <img align="center" alt="Ryan-Ribeiro-Arduino" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
   <img align="center" alt="Ryan-Ribeiro-Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Ryan-Ribeiro-GitHub" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
