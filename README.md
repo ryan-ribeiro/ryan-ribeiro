@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a Computer Engineering student from Goiânia, Goiás State of Brazil.
+Computer Engineering student from Goiânia, Goiás State of Brazil.
 
 I develop home and industrial automation solutions using Arduino ♾️. 
 
