@@ -6,13 +6,11 @@ I am a Computer Engineering student from Goiânia, Goiás State of Brazil.
 
 I develop home and industrial automation solutions using Arduino ♾️. 
 
-I try to test a wide range of sensors, coding and communications protocols to develop solutions to the problems of I face. 
+I test a wide range of sensors, coding and communications protocols to develop solutions to the problems of I face. 
 
-I use Java SpringBoot Suite to code Rest APIs to my projects. 
+I use Java SpringBoot Suite to code Rest and RESTFUL APIs to my projects. 
 
-While I primarily program in C, I'm also diving into the world of Java object-oriented programming.
-
-Feel free to connect with me if you share a passion for Arduino automation solutions, technology, or just want to exchange ideas. I'm always open to collaborations and discussions.
+While I primarily program in C and C++, I'm also diving into Java and Python languages.
 
 
 
